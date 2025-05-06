@@ -19,4 +19,5 @@ How to use...
 
   -pdm add
 
+4. Die Datei power_curve.py erzeugt eine sortierte Grafik der Aktivitätsdaten und speichert diese als PNG-Datei.
 Power_curve (Grafik einbauen)
